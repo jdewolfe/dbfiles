@@ -3,48 +3,4 @@
  ,{"minAndroid":24,"maxAndroid":25,"supported":"2.6.2"}
  ,{"minAndroid":26,"maxAndroid":27,"supported":"2.8.2"}
  ,{"minAndroid":28,"maxAndroid":99,"supported":"3.0.0"}
- ,{"endDate":"2027-02-28","version":"3.0.0"}
- ,{"endDate":"2027-02-28","version":"3.0.0.1"}
- ,{"endDate":"2027-12-31","version":"3.0.0.1-dev-h-newsurface"}
- ,{"endDate":"2027-12-31","version":"3.0.0.2-dev-m-Tsunami_3.3"}
- ,{"endDate":"2027-12-31","version":"3.0.0.2-dev-m"}
- ,{"endDate":"2027-12-31","version":"3.0.0.2-dev-k"}
- ,{"endDate":"2027-12-31","version":"3.0.0.2-dev-k-Tsunami_3.3"}
- ,{"endDate":"2027-12-31","version":"3.0.0.1_Tsunami_2.2.2a-buttons"}
- ,{"endDate":"2027-12-31","version":"3.0.0.1-dev-h-Tsunami_3.1"}
- ,{"endDate":"2027-03-31","version":"3.0.0.2"}
- ,{"endDate":"2027-03-31","version":"3.0.0.3"}
- ,{"endDate":"2027-01-30","version":"3.1.0"}
- ,{"endDate":"2027-03-28","version":"3.1.0.1"}
- ,{"endDate":"2027-03-28","version":"3.1.0.2"}
- ,{"endDate":"2027-04-28","version":"3.1.0.3"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-g-AIMI"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-c-AIMI"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-h-AIMI"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-a-AIMI-v22"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-f-AIMI"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-b"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-b-AIMI"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-e-AIMI"}
- ,{"endDate":"2027-01-30","version":"3.1.0.3-dev-d-AIMI"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-f"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-g"}
- ,{"endDate":"2027-12-31","version":"3.1.0.2-dev-a-Tsunami_3.3"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-c"}
- ,{"endDate":"2027-12-31","version":"3.1.0.3-dev-d"}
- ,{"endDate":"2027-02-28","version":"3.1.0.3-dev-isf"}
- ,{"endDate":"2027-09-05","version":"3.2.0-dev-j"}
- ,{"endDate":"2027-09-19","version":"3.2.0-dev-j-medtrum"}
- ,{"endDate":"2027-01-30","version":"3.2.0-dev-j-AIMI-AI"}
- ,{"endDate":"2027-01-30","version":"3.2.0-dev-k-AIMI-AI"}
- ,{"endDate":"2027-01-30","version":"3.2.0-dev-l-AIMI-AI"}
- ,{"endDate":"2027-01-30","version":"3.2.0-dev-i-AIMI"}
- ,{"endDate":"2027-09-05","version":"3.2.0-dev-k"}
- ,{"endDate":"2027-09-07","version":"3.2.0-beta1"}
- ,{"endDate":"2027-10-06","version":"3.2.0-dev-l"}
- ,{"endDate":"2027-11-03","version":"3.2.0-dev-m"}
- ,{"endDate":"2027-10-23","version":"3.2.0-rc1"}
- ,{"endDate":"2027-11-03","version":"3.2.0-rc2"}
- ,{"endDate":"2027-11-20","version":"3.2.0.1-dev"}
- ,{"endDate":"2027-11-20","version":"3.2.0.1-dev-a"}
 ]
